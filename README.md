@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pritam27442834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritam27442834" height="30" width="40" /></a>
+<a href="https://twitter.com/pritam27442834" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="pritam27442834" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pritam-mukherjee-894459219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-mukherjee-894459219" height="30" width="40" /></a>
 <a href="https://hashnode.com/@pritam2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pritam2002" height="30" width="40" /></a>
 </p>
