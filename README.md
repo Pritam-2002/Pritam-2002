@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-2002&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-2002" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React Js,Material Ui,Tailwind css**
 
 - 💬 Ask me about **c,cpp,html,css,Js**
 
 - 📫 How to reach me **mukherjeep7654321@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+- [![An image of @pritam2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pritam2002)](https://holopin.io/@pritam2002)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
