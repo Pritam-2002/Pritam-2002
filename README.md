@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-2002&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-2002" /> </p>
 
-- 🌱 I’m currently learning **React Js,Material Ui,Tailwind css**
+- 🌱 I’m currently learning **React Js,Next js,Material Ui,Tailwind css,Bootstrapcss,Nodejs, Mongodb,**
 
 - 💬 Ask me about **c,cpp,html,css,Js**
 
