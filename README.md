@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Mukherjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-2002&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-2002" /> </p>
