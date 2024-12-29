@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-2002&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-2002" /> </p>
 
-- 🌱 I’m currently learning **React Js,Next js,Material Ui,Tailwind css,Bootstrapcss,Nodejs, Mongodb,**
+- 🌱 I’m currently learning **Backend & Cloud**
 
-- 💬 Ask me about **c,cpp,html,css,Js**
+- 💬 Ask me about **Frontend, Backend and Cloud**
 
 - 📫 How to reach me **mukherjeep7654321@gmail.com**
 
